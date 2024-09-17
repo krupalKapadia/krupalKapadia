@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @krupalKapadia
-- 👀 I’m interested in finding work as a web developer
 - 🌱 I’m currently learning Next Js
 - 📫 How to reach me ...EMAIL: krupalkapadia51@gmail.com
 
